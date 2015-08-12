@@ -8,7 +8,7 @@
         <div id='sslform'>
           <form class="form-horizontal">
             <p>This site checks the SSL/TLS configuration of a server. In shows you the full certificate chain, including all kinds of information about every certificate, as well as connection information like ciphersuites and protocol support.</p>
-            <p>Fill in either host + port or paste a CSR/Certficiate. Port defaults to 443. <br></p>
+            <p>Fill in either host + port or paste a CSR/Certificate. Port defaults to 443. <br></p>
             <fieldset>
               <div class="form-group">
                 <label class="col-md-1 control-label" for="host">Host </label>  
